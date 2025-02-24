@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dildar raza</h1>
 <h3 align="center">i'm web&Application developer from Pakistan</h3>
-<img aling="right" alt="coding" width="400"src="3374e532f6b6531375a77644742546f6464493870">
 
-- 🌱 I’m currently learning **studying web&Application development**
+
+- 🌱 I’m currently  **studying web&Application development**
 
 - 📫 How to reach me **dildarraza764@gmail.com**
 
